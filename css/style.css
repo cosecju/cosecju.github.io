@@ -239,6 +239,7 @@ ul.nav.navbar {
 /*-- about --*/
 .about-w3agile,.team,.gallery,.agile-blog,.contact,.subscribe-agileinfo {
     padding: 6em 0;
+   
 }
 .w3ls_head {
     font-size: 3.5em;
@@ -553,7 +554,7 @@ p.w3agile {
     margin: 0;
 } 
 .team .w3agile-caption {
-	padding: 1.5em .5em 3.5em !important;
+    padding: 1.5em .5em 3.5em !important;
 }
 .team h4 {
     color: #01e2ff;
