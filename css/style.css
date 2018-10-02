@@ -1,8 +1,23 @@
 body{
 	margin:0;
 	font-family: 'Roboto', sans-serif;
-	background: #fff;  
+    background: #fff;
 }
+.mynewcolors{
+    background: #eee;
+}
+.blackcolor{
+    color: #000;
+}
+.card {
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 8px;
+}
+.card:hover {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2);
+}
+
 body a{
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
